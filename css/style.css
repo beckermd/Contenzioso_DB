@@ -1,0 +1,81 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px; /*for older browsers*/
+    color: #666;
+    line-height: 1.5;
+    vertical-align: baseline;
+}
+
+fieldset.update-table {
+    padding: 10px;
+    margin-right: 40px;
+}
+
+fieldset.delete-row {
+    padding: 10px;
+    margin-right: 40px;
+    height: 278px;
+}
+
+body {
+    background: white;
+    font-family: 'Open Sans', sans-serif;
+    color: #666;
+    line-height: 1.5;
+}
+
+table#form {
+    /*background: #ecfff2;*/
+    text-align: left;
+}
+
+input.causa, input.id {
+    width: 60px;
+}
+
+input.form-Materia {
+    margin-left: 20px;
+    width: 420px;
+}
+
+input.form-argomento {
+    min-width: 420px;
+    width: auto;
+}
+
+input.form-Gruppo {
+    width: 60px;
+
+}
+
+input.form-ArgomentoORi {
+    width: 400px;
+}
+
+.table_complete td {
+    border: 1px solid black;
+
+}
+
+.table_complete th {
+    font-size: 20px;
+    border: 2px solid black;
+
+}
+
+.table_complete {
+    clear: both;
+    position: relative;
+}
+
+button {
+    float: right;
+    height: 40px;
+    width: 70px;
+}
+
+button#delete{
+    position: relative;
+    bottom: -215px;
+}
+

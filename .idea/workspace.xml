@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" name="Default" comment="" />
+    <ignored path="Table_DB.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/connection.php" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425336230930" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/css/navigation.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424968043040" ignored="false" />
+    <file path="/navigation.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424456671584" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/Standard_Layout.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424969184394" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/css/navigation 2L.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423589295712" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/Navigation.txt" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423594142057" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/css/header.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423594735671" ignored="false" />
+    <file path="/header.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423751538273" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/header.txt" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423594842818" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/footer.txt" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423595517147" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/css/main.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424990784915" ignored="false" />
+    <file path="/main.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424990759830" ignored="false" />
+    <file path="/table.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423598453727" ignored="false" />
+    <file path="/table.php" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423607225221" ignored="false" />
+    <file path="/connection_1.php" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423603652396" ignored="false" />
+    <file path="/Dummy.txt" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423866437511" ignored="false" />
+    <file path="/a.sql" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424900875728" ignored="false" />
+    <file path="/dummy.sql" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424900873614" ignored="false" />
+    <file path="/ListTable" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425336033443" ignored="false" />
+    <file path="/Upload Contenzioso_2L.sql" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425336467219" ignored="false" />
+    <file path="/Contenzioso.php" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423673777623" ignored="false" />
+    <file path="/newRowDB.php" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423841722140" ignored="false" />
+    <file path="/addNewRoadDB.php" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423677684959" ignored="false" />
+    <file path="/Contenzioso.csv" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423684678872" ignored="false" />
+    <file path="/addNewRowDB.php" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425336153423" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/css/main.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424020268334" ignored="false" />
+    <file path="$USER_HOME$/Documents/WebDev/Test/.idea/workspace.xml" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423699952766" ignored="false" />
+    <file path="$USER_HOME$/eclipse/WebSiteResponsive/index_table.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423753516683" ignored="false" />
+    <file path="$USER_HOME$/eclipse/WebSiteResponsive/test.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423700168446" ignored="false" />
+    <file path="$USER_HOME$/eclipse/WebSiteResponsive/style_table.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423749092202" ignored="false" />
+    <file path="/index_table.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423753476154" ignored="false" />
+    <file path="/style_table.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423848993788" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/Standard_Layout.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423960340368" ignored="false" />
+    <file path="/Standard_Layout.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424401898906" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/css/header.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423865811452" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/header.txt" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423751650188" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/TestTableFormat/TableColumn2Fix.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423759032326" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/TestTableFormat/css/style_table.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423757503070" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/TestTableFormat/css/style.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423758699116" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/TestTableFormat/Column2Variable.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423762948686" ignored="false" />
+    <file path="/Column2Variable.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423762826601" ignored="false" />
+    <file path="/style.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424724248848" ignored="false" />
+    <file path="/TableColumn2Fix.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423759880077" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/TestTableFormat/TableColumn2Fixed.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423759893614" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/Standard_Layout 3D.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423768228522" ignored="false" />
+    <file path="/Standard_Layout 3D.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423765690035" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/buttons" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423768054482" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/js/load-siteParts.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423969143212" ignored="false" />
+    <file path="/load-siteParts.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425000344425" ignored="false" />
+    <file path="/contenzioso.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424791634480" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/Tests/verticalAlignment Vsimple.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423773762578" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/bkups/buttons 1D.txt" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423773585741" ignored="false" />
+    <file path="/buttons 1D.txt" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423773424259" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/buttons.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424019696225" ignored="false" />
+    <file path="/buttons.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423959920248" ignored="false" />
+    <file path="/verticalAlignment Vsimple.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423773760079" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/Tests/vertical Vsimple.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423776135350" ignored="false" />
+    <file path="/vertical Vsimple.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423776050450" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/buttons.txt" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423778282131" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/navigation.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423855530657" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/bkups/Navigation_1D.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423780437288" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/bkups/css_bkups/navigation1D.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423780437288" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/css/navigation 2L.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423780437288" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/bkups/css_bkups/main 2D_prev_split.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423780437288" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/bkups/css_bkups/navigation temp 1L.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423780437288" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/css/navigation.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423866137862" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/css/style-ver=3.9.3_4L.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423780437288" ignored="false" />
+    <file path="/navigation.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424459910930" ignored="false" />
+    <file path="/deleteRow.php" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425336957601" ignored="false" />
+    <file path="/modifyTable.php" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425336788538" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/scambi.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423949886134" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/import-export.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423949886134" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/penale-amministrativo.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423949886134" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/trademarks.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423949886134" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/css/screen_layout_small.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423968879628" ignored="false" />
+    <file path="/screen_layout_small.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423968879628" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/internazionale.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423949886134" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/bkups/concorrenza_1L.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423853531558" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/bkups/Standard_Layout 3D.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423853531558" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/contracts.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423949886134" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/concorrenza.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423949886134" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/buttonsFull.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423853638365" ignored="false" />
+    <file path="/buttonsFull.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423853637634" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/footerFull.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423855322872" ignored="false" />
+    <file path="/footerFull.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423853750970" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/bkups/js_bkups/load-navigationhtml.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423854034415" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/headerFull.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423856632845" ignored="false" />
+    <file path="/headerFull.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423854018426" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/header.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423949886134" ignored="false" />
+    <file path="/header.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424388311808" ignored="false" />
+    <file path="$USER_HOME$/Documents/INTernship/Standard_Layout.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423857456674" ignored="false" />
+    <file path="$USER_HOME$/Documents/INTernship/css/screen_layout_small.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423857362193" ignored="false" />
+    <file path="/font" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423859377930" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/contenzioso_layout.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423950716512" ignored="false" />
+    <file path="/contenzioso_layout.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423950684886" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/contenzioso_table.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423950885413" ignored="false" />
+    <file path="/contenzioso_table.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424902550500" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/Standard_Layout_Small_Screen.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423969164868" ignored="false" />
+    <file path="/Standard_Layout_Small_Screen.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423967905287" ignored="false" />
+    <file path="/list.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423959789117" ignored="false" />
+    <file path="$PROJECT_DIR$/../ZZ-WEBSITES/RT-WebDev/buttons_small.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423968494550" ignored="false" />
+    <file path="/buttons_small.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1423968077944" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/css/screen_layout_small.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424969305834" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/navigation.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424981608557" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/buttons.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424043044463" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/navigationFull.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424139769310" ignored="false" />
+    <file path="/navigationFull.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424139766581" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/germania360.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424970073336" ignored="false" />
+    <file path="/germania360.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424186561554" ignored="false" />
+    <file path="/import-export.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424186578683" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/import-export.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424969722662" ignored="false" />
+    <file path="/internazionale.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424186590282" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/internazionale.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424969722662" ignored="false" />
+    <file path="/scambi.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424186622766" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/scambi.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424969722663" ignored="false" />
+    <file path="/concorrenza.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424186654161" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/concorrenza.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424969722662" ignored="false" />
+    <file path="/contenzioso.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424705844212" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/contenzioso.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424969722662" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/contracts.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424969722662" ignored="false" />
+    <file path="/contracts.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424186685046" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/penale-amministrativo.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424969722662" ignored="false" />
+    <file path="/penale-amministrativo.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424186710089" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/trademarks.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424969722662" ignored="false" />
+    <file path="/trademarks.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424186737540" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/navigationSmallScreen.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424188906265" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/css/navigation.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424221391896" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/css/main.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424219036221" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/navigationSmallScreen.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424221633377" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/js/open_menu.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424195856660" ignored="false" />
+    <file path="/navigationSmallScreen.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424463003460" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/js/jquery.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424191137926" ignored="false" />
+    <file path="/open_menu.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424195855596" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/vavigation_copy.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424195668980" ignored="false" />
+    <file path="/vavigation_copy.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424195577628" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/js/jquery.min.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424195965814" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/css/nav_test" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424195623370" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/css/nav_test.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424211692699" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/navigation_copy.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424211651225" ignored="false" />
+    <file path="/navigation_copy.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424201285154" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/js/collapsible.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424211888013" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/js/jqueri-1.9.1.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424200321115" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/css/collapse" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424201268199" ignored="false" />
+    <file path="$PROJECT_DIR$/../SmallScreen/js/ddacordion.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424201311377" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/header.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424444457995" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/js/load-siteParts.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425001334813" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/js/toggle-menu.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424459058182" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/navigationSmallScreen_bottom.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424445789616" ignored="false" />
+    <file path="/navigationSmallScreen_bottom.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424395006164" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/bkups/navigationSmallScreen.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424395201764" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/header_3D.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424400842714" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/bkups/css_bkups/navigation 16D.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424401338897" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/bkups/css_bkups/navigation 2L.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424401338897" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/bkups/css_bkups/navigation 17D.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424401338897" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/css/navigation_small_screen.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424461972866" ignored="false" />
+    <file path="/navigation_small_screen.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424462362072" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/navigation_small_only.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424446478259" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/bkups/navigationFul 5Dl.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424449904338" ignored="false" />
+    <file path="/navigationFul 5Dl.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424449904338" ignored="false" />
+    <file path="/toggle-menu.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424452594512" ignored="false" />
+    <file path="/nav_smallScreen2 1D.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424462918105" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/Contenzioso files/Upload Contenzioso_2L.sql" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424656602548" ignored="false" />
+    <file path="$PROJECT_DIR$/Contenzioso files/Upload Contenzioso_3D.sql" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424702137090" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/contenzioso_table.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424902572569" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/css/contenzioso.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424791646667" ignored="false" />
+    <file path="$PROJECT_DIR$/../Table_DB/.idea/workspace.xml" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424716573024" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/contenzioso.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424727299147" ignored="false" />
+    <file path="/test_modify_table.php" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424799252360" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/uffici.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425060934180" ignored="false" />
+    <file path="/uffici.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425003829647" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/professionisti.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424990276060" ignored="false" />
+    <file path="/professionisti.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424990276060" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/mappa/slider.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424896708790" ignored="false" />
+    <file path="/slider.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424896676613" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/css/map.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425061096624" ignored="false" />
+    <file path="/map.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425056026895" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/NotesLog_2L.txt" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424819708580" ignored="false" />
+    <file path="/NotesLog_2L.txt" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424819704212" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/js/unslider.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424823993681" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/js/unslider.min.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424894499055" ignored="false" />
+    <file path="/unslider.min.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424894130383" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Slider/slider.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424879168187" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Slider/css/style.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424879057116" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/mappa/slider_arrow.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424883022748" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/css/map_arrow.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424883146703" ignored="false" />
+    <file path="/slider_arrow.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424883021078" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/pubblicazioni.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424969722662" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/bibliografia.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424990708701" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/uffici.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425001250657" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/css/map.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425004145153" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/js/responsiveslides.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424959497516" ignored="false" />
+    <file path="/responsiveslides.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424913926772" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/js/responsiveslides.min.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424959844992" ignored="false" />
+    <file path="/responsiveslides.min.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424959844594" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/multiple/index.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424961844430" ignored="false" />
+    <file path="/index.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424961007241" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/js/jquery.slides.min.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425003778763" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/css/footer 2L.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/footer3.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/Tests/css/style.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/bkups/header1.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/footer.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/multiple/css/example.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/bkups/footer3.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/css/footer.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/bkups/header_2D.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/bkups/footer_4L.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/Tests/index.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/css/style-ver=3.9.3_4L.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424963820425" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/bkups/css_bkups/main 2D_prev_split.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424963820425" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/about-us.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424979020198" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/contact-us.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424969559983" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/index.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424969559983" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/settori.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424969722663" ignored="false" />
+    <file path="/jquery.slides.min.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425003763161" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/js/load-siteParts 2D.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424979046037" ignored="false" />
+    <file path="/load-siteParts 2D.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424978872990" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/bruxelles-map.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425060694411" ignored="false" />
+    <file path="/bruxelles-map.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425060692850" ignored="false" />
+    <file path="/bibliografia.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424990703240" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/Note.txt" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424983835971" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/thingsToDo" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425002213272" ignored="false" />
+    <file path="/thingsToDo" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425002213272" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/Bibliografica prior site/css/Main_12L.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424989332668" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/css/bibliografia" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424989714677" ignored="false" />
+    <file path="/bibliografia" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424989484516" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/css/bibliografia.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424990340427" ignored="false" />
+    <file path="/bibliografia.css" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1424990340427" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/js/common.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425060365662" ignored="false" />
+    <file path="/common.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425059328683" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/js/load-siteParts.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425001323144" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/js/common.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425001415279" ignored="false" />
+    <file path="$PROJECT_DIR$/../RT-WebDev/js/load-linksMaps.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425058341079" ignored="false" />
+    <file path="/load-linksMaps.js" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425057923098" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/uffici_2.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425060880806" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/padova-map.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425060711910" ignored="false" />
+    <file path="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/RT-WebDev/berlino-map.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425060675540" ignored="false" />
+    <file path="/berlino-map.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425060674313" ignored="false" />
+    <file path="/uffici_2.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425060391116" ignored="false" />
+    <file path="/padova-map.html" changelist="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" time="1425060709042" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Table_DB" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="modifyTable.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modifyTable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="50" selection-start="1602" selection-end="1602" vertical-scroll-proportion="1.8466523">
+              <folding>
+                <element signature="n#style#0;n#fieldset#0;n#th#1;n#table#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="dbtable:/7caf4dd7/9962aa67-ecd0-4be5-b34b-df6f92b18098/Registration..Contenzioso" />
+        <option value="$PROJECT_DIR$/Contenzioso files/Contenzioso.csv" />
+        <option value="db-console:/7caf4dd7/9962aa67-ecd0-4be5-b34b-df6f92b18098/" />
+        <option value="$PROJECT_DIR$/Contenzioso files/Workbook1.csv" />
+        <option value="$PROJECT_DIR$/test_modify_table.php" />
+        <option value="$PROJECT_DIR$/../collapse/css/collapse.css" />
+        <option value="dbtable:/260dfbc4/9962aa67-ecd0-4be5-b34b-df6f92b18098/Registration..tableview" />
+        <option value="$PROJECT_DIR$/Contenzioso files/Contenzioso_2.csv" />
+        <option value="dbtable:/260dfbc4/9962aa67-ecd0-4be5-b34b-df6f92b18098/Registration..Contenzioso" />
+        <option value="db-console:/260dfbc4/9962aa67-ecd0-4be5-b34b-df6f92b18098/" />
+        <option value="$PROJECT_DIR$/addNewRowDB.php" />
+        <option value="$PROJECT_DIR$/connection.php" />
+        <option value="$PROJECT_DIR$/Contenzioso files/Upload Contenzioso_2L.sql" />
+        <option value="$PROJECT_DIR$/modifyTable.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/deleteRow.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php 5.4" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Table_DB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Table_DB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Contenzioso_DB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="Database.TableEditor.Splitter" value="0.82800984" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.tableList">
+    <configuration default="false" name="connection.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/connection.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="table.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/table.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="connection_1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/connection_1.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="modifyTable.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/modifyTable.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" editBeforeRun="true" document_root="$PROJECT_DIR$" port="8080" router_script="$PROJECT_DIR$/table.php" use_router_script="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tableList" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080" router_script="$PROJECT_DIR$/table.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHP Built-in Web Server.tableList" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.connection.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.table.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.connection_1.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.modifyTable.php" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.modifyTable.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.table.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.connection_1.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.connection.php" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4be3e9e2-d98a-430c-817c-35cfd2b6fbd8" name="Default" comment="" />
+      <created>1423578668106</created>
+      <updated>1423578668106</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32669324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.68393093" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16068867" sideWeight="0.68393093" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31606907" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32802126" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../collapse/collapse1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contenzioso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="25.625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../collapse/css/collapse.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="80" selection-start="206" selection-end="206" vertical-scroll-proportion="0.43209878" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../collapse/css/navigation 1D.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/260dfbc4/9962aa67-ecd0-4be5-b34b-df6f92b18098/Registration..tableview">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contenzioso files/Contenzioso_2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contenzioso files/Contenzioso.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="dbDummy://db-console:/260dfbc4/9962aa67-ecd0-4be5-b34b-df6f92b18098/">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="991" selection-end="1641" vertical-scroll-proportion="0.8175355">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contenzioso.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="6" selection-start="22" selection-end="22" vertical-scroll-proportion="-2.5128806">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addNewRowDB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="124" selection-start="637" selection-end="637" vertical-scroll-proportion="-12.5">
+          <folding>
+            <marker date="1425336156000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1425336156000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1425336156000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contenzioso files/Upload Contenzioso_2L.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="49" selection-start="294" selection-end="294" vertical-scroll-proportion="0.3164557">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_modify_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="84" selection-start="322" selection-end="322" vertical-scroll-proportion="0.4211663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleteRow.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="8" selection-start="439" selection-end="439" vertical-scroll-proportion="0.7451404">
+          <folding>
+            <marker date="1425336958000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1425336958000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="16" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.7227926">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modifyTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="50" selection-start="1602" selection-end="1602" vertical-scroll-proportion="1.8466523">
+          <folding>
+            <element signature="n#style#0;n#fieldset#0;n#th#1;n#table#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
